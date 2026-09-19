@@ -1,0 +1,21 @@
+{
+  "name": "Brincando pelo Mundo — Brasil & México",
+  "type": "static",
+  "entry": "index.html",
+  "features": [
+    "responsive",
+    "mobile-menu",
+    "search",
+    "country-filter",
+    "art-filter",
+    "activity-modal",
+    "source-gallery",
+    "dark-mode",
+    "scroll-progress",
+    "lazy-images",
+    "reduced-motion",
+    "project-credits"
+  ],
+  "event": "Feira Cultural",
+  "school": "Brincando e Criando"
+}
